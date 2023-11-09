@@ -1,7 +1,32 @@
-# About Me
 
-# Experience
+<h1 align ="center" >Hello</h1>
+  
+# Name 
+## Number
+### street
+## Zip code 
+## City
+## Country
 
-# Projects
+## Formating 
+### Adding basic formatting to text is simple
 
-# Socials
+## Bold -**Bold** or _Bold_
+
+## *Italic* or _Italics_
+
+## Strikethrough - ~~Strikethrough~~
+
+## Highlight - ==Highlight==
+
+## `inline Code `
+
+ ```python , print("hello)```
+
+list | Name    | SRN  |
+-----|---------|------|
+1    |Adithya  |------|
+
+## [dogs](http://labrador.com)
+
+
